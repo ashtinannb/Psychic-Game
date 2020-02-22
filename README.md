@@ -5,3 +5,6 @@ In this game, the player has 9 attempts to guess the letter the computer has pre
 **Built with**
 * HTML
 * Javascript
+
+ (https://ashtinannb.github.io/Psychic-Game/)
+   
