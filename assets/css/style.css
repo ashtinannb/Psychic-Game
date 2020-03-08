@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150px;
+    color: aqua;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:plum;
+
+}
